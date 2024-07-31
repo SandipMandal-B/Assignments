@@ -8,3 +8,4 @@ if c > max_num:
     max_num = c
 
 print("The maximum number is", max_num)
+ 

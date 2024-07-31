@@ -6,3 +6,4 @@ perimeter = 2 * (length + width)
 
 print("Area:", area)
 print("Perimeter:", perimeter)
+ 
